@@ -6,5 +6,7 @@ Faça um Programa utilizando a linguagem Python que solicite ao usuário de cada
 Calcule e mostre:
 
 a) A média aritmética das notas;
+
 b) A variância das notas;
+
 c) O desvio padrão.
